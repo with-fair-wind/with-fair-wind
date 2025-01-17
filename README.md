@@ -1,6 +1,6 @@
-## Hi there 👋
+<div id="title" align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=with-fair-wind)](https://github.com/with-fair-wind/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=with-fair-wind&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 <!--
 **with-fair-wind/with-fair-wind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
