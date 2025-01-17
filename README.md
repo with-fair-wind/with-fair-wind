@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+![Visitor Count](https://profile-counter.glitch.me/with-fair-wind/count.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=with-fair-wind&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
