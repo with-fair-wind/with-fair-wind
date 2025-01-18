@@ -1,7 +1,37 @@
-<div id="title" align=center>
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=with-fair-wind&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);kk祝您今天愉快!&center=true&size=27" />
+    </a>
+  </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=with-fair-wind&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=with-fair-wind&theme=github-compact&hide_border=true&area=true" />
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://space.bilibili.com/95071707/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=with-fair-wind&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@with-fair-wind"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
