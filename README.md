@@ -26,6 +26,11 @@
     <a href="https://wakatime.com/@with-fair-wind"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
   </div>
 
+  [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+  ![](https://img.shields.io/badge/讨厌-学习-yellow) 
+  ![](https://img.shields.io/badge/性格-佛系-red) 
+  ![](https://img.shields.io/badge/爱好-音乐-red)
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/with-fair-wind/with-fair-wind/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/with-fair-wind/with-fair-wind/output/github-contribution-grid-snake.svg">
