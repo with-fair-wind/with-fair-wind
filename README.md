@@ -31,6 +31,9 @@
   ![](https://img.shields.io/badge/性格-佛系-red) 
   ![](https://img.shields.io/badge/爱好-音乐-red)
 
+  <!-- ########################################## 分割 ########################################## -->
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/with-fair-wind/with-fair-wind/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/with-fair-wind/with-fair-wind/output/github-contribution-grid-snake.svg">
