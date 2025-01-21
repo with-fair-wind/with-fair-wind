@@ -23,7 +23,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=with-fair-wind&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
-    <a href="https://wakatime.com/badge/github/with-fair-wind/Template"><img src="https://wakatime.com/badge/github/with-fair-wind/Template.svg" alt="wakatime"></a>
+    <a href="https://wakatime.com/badge/github/with-fair-wind/algorithm"><img src="https://wakatime.com/badge/github/with-fair-wind/algorithm.svg" alt="wakatime"></a>
   </div>
 
   [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
