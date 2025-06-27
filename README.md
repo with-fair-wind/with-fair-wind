@@ -17,10 +17,10 @@
     <a href="https://wakatime.com/@ce0d46c5-18d6-42ec-b434-412695586048"><img src="https://wakatime.com/badge/user/ce0d46c5-18d6-42ec-b434-412695586048.svg" alt="Total time coded since Jan 18 2025" /></a>
   </div>
 
-  [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-  ![](https://img.shields.io/badge/讨厌-干活-yellow) 
-  ![](https://img.shields.io/badge/性格-佛系-red) 
-  ![](https://img.shields.io/badge/爱好-音乐-red)
+  [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
+  ![讨厌-干活](https://img.shields.io/badge/讨厌-干活-yellow)
+  ![性格-佛系](https://img.shields.io/badge/性格-佛系-red)
+  ![爱好-音乐](https://img.shields.io/badge/爱好-音乐-red)
 
   <!-- ########################################## 分割 ########################################## -->
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
