@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=D32EF7&width=435&lines=console.log(%22Hello%2C%20World%22);在童年的书本里，在金黄的人世间!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=D32EF7&width=435&lines=console.log(%22人生无法同时拥有青春%2C%20和对于青春的感受%22);在童年的书本里，在金黄的人世间!&center=true&size=27)](https://git.io/typing-svg)
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
