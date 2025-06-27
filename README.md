@@ -1,11 +1,7 @@
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=D32EF7&width=435&lines=在童年的书本里，在金黄的人世间&center=true&size=27" />
-    </a>
-  </div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=D32EF7&width=435&lines=console.log(%22Hello%2C%20World%22);在童年的书本里，在金黄的人世间!&center=true&size=27)](https://git.io/typing-svg)
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
