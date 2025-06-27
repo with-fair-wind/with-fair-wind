@@ -10,7 +10,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://space.bilibili.com/95071707/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://space.bilibili.com/95071707/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="Bilibili Badge" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=with-fair-wind&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->
