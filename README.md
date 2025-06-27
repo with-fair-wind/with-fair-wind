@@ -3,12 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=1000&color=D32EF7&width=600&lines=console.log(%22欲买桂花同载酒%2C%20终不似%2C%20少年游%22);在童年的书本里，在金黄的人世间!&center=true&size=27)](https://git.io/typing-svg)
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/with-fair-wind/with-fair-wind/blob/master/img/1.jpg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/with-fair-wind/with-fair-wind/blob/master/img/1.jpg"  />
-    <img src="https://github.com/with-fair-wind/with-fair-wind/blob/master/img/1.jpg" alt="Home page picture" height="400px"/>
-  </picture>
+  <img src="https://github.com/with-fair-wind/with-fair-wind/blob/master/img/1.jpg" alt="Home page picture" height="400px"/>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
