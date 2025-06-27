@@ -23,7 +23,7 @@
   ![爱好-音乐](https://img.shields.io/badge/爱好-音乐-red)
 
   <!-- ########################################## 分割 ########################################## -->
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" alt="divider line" />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/with-fair-wind/with-fair-wind/output/github-contribution-grid-snake-dark.svg">
@@ -35,5 +35,3 @@
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=with-fair-wind&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 </div>
-
-
