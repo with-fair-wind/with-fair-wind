@@ -6,8 +6,8 @@
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/with-fair-wind/with-fair-wind/blob/master/img/1.jpg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/with-fair-wind/with-fair-wind/blob/master/img/1.jpg" height="400px" />
-    <img src="https://github.com/with-fair-wind/with-fair-wind/blob/master/img/1.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/with-fair-wind/with-fair-wind/blob/master/img/1.jpg"  />
+    <img src="https://github.com/with-fair-wind/with-fair-wind/blob/master/img/1.jpg" alt="Home page picture" height="400px"/>
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
