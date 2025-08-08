@@ -31,7 +31,7 @@
   </picture>
   
   <a href="https://github.com/with-fair-wind/algorithm">
-    <img height="137px" alt="with-fair-wind's GitHub stats-Light" src="https://github-readme-stats.vercel.app/api?username=with-fair-wind&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite#gh-light-mode-only" />
+    <img height="137px" alt="with-fair-wind's GitHub stats-Light" src="https://github-readme-stats.vercel.app/api/?username=with-fair-wind&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite#gh-light-mode-only" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="137px" alt="Top Langs-Light" src="https://github-readme-stats.vercel.app/api/top-langs/?username=with-fair-wind&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite#gh-light-mode-only" />
